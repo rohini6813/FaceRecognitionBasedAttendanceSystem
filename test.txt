@@ -1,0 +1,1 @@
+['Computer', 'TE', '2023-24', 'Semester-2', '1', 'Harsh', 'D', '1', 'Male', 'harsh@gmail.com', '373310296', 'Jalgaon']
