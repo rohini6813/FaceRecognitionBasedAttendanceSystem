@@ -1,10 +1,10 @@
-##Face Recognition-Based Attendance System
+Face Recognition-Based Attendance System
 
-##Overview - 
+Overview - 
 
 The Face Recognition-Based Attendance System is an automated solution designed to track attendance using facial recognition technology. The system captures images of individuals, processes their facial features, and maintains an attendance log based on successful recognition.
 
-##Features - 
+Features - 
 
 Automated Attendance Tracking: Uses facial recognition to mark attendance.
 
@@ -17,17 +17,17 @@ Real-Time Detection: Detects and identifies faces in real-time.
 Report Generation: Generates attendance reports for analysis.
 
 
-##Technologies Used - 
+Technologies Used - 
 
 Programming Language: Python
 
 Libraries: OpenCV, NumPy, Pandas, Face Recognition
 
-Database: SQLite / MySQL
+Database:  MySQL
 
 Framework: Tkinter (for GUI)
 
-##How It Works - 
+How It Works - 
 
 Face Registration: Register faces by capturing images and storing encodings.
 
