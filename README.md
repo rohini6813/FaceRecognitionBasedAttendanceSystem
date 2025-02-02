@@ -2,7 +2,8 @@
 
 <h1>Overview - </h1>
 
-<h4>The Face Recognition-Based Attendance System is an automated solution designed to track attendance using facial recognition technology.The system captures images of individuals, processes their facial features, and maintains an attendance log based on successful recognition.</h4>
+<h4>The Face Recognition-Based Attendance System is an automated solution designed to track attendance using facial recognition technology.The system captures images of individuals or in group, processes their facial features, and maintains an attendance log based on successful recognition.</h4>
+
 
 <h1>Features - <h1></h1>
 
@@ -29,6 +30,7 @@
 <h4>Data Storage: Attendance records are saved in the database.</h4>
 <h4>Report Generation: View and export attendance records.</h4>
 
+
 <h2>📂 face-recognition-attendanc</h2>
 <h2>├── 📂 dataset         # Stores registered face images</h2>
 <h2>├── 📂 models          # Contains pre-trained models</h2>
@@ -36,6 +38,7 @@
 <h2>├── main.py           # Main application script</h2>
 <h2>├── requirements.txt  # Dependencies</h2>
 <h2>└── README.md         # Project documentation</h2>
+
 
 <h1>Future Enhancements - </h1>
 
